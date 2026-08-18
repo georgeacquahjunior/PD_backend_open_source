@@ -18,7 +18,7 @@ The program should:
 5. Calculate the **subtotal** (sum of all line totals).
 6. Apply a **5% sales tax** to the subtotal to get the **tax amount**.
 7. Calculate the **grand total** (subtotal + tax).
-8. Print a neatly formatted receipt to the terminal, including the shop name, a line per item (name, quantity, unit price, line total), the subtotal, tax, and grand total — all currency values shown with exactly 2 decimal places and aligned so the numbers line up visually.
+8. Print a neatlyf ormatted receipt to the terminal, including the shop name, a line per item (name, quantity, unit price, line total), the subtotal, tax, and grand total — all currency values shown with exactly 2 decimal places and aligned so the numbers line up visually.
 
 ## Expected Outcome
 
